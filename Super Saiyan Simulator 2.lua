@@ -58,7 +58,7 @@ Farm.Toggle({
 
 
 Farm.Toggle({
-    Text = "Auto Charge BugFeature Turn off then Press C if you can't move",
+    Text = "Auto Charge (Very Buggy) Turn off then Press C if you can't move",
     Callback = function(value)
         _G.AutoCharge = value
         

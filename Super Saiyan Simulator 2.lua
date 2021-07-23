@@ -20,17 +20,9 @@ local Options = UI.New({
     Title = "MISC"
 })
 
--- Note: This is just a snippet
-Farm.Dropdown({
-    Text = "Choose an option",
-    Callback = function(value)
-        print(value)
-    end,
-    Options = {"Quest Board"}
-})
 
 
--- Note: This is just a snippet
+
 UI.Banner({
     Text = "Credits: S̷u̷n̷n̷9̷9̷9̷#5342 this is still being worked on keep that in mind so everything probably isn't done or fixed"
 })
